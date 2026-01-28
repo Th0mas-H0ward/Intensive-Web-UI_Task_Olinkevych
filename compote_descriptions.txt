@@ -1,0 +1,19 @@
+orange compote
+Berries: Berry3, Berry6
+Number of berries: 2
+
+blue compote
+Berries: Berry1
+Number of berries: 1
+
+green compote
+Berries: Berry4
+Number of berries: 1
+
+purple compote
+Berries: Berry5
+Number of berries: 1
+
+red compote
+Berries: Berry2
+Number of berries: 1

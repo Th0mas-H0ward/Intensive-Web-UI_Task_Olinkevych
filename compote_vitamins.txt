@@ -1,0 +1,14 @@
+orange compote
+Vitamins: A, C
+
+blue compote
+Vitamins: A, E, C
+
+green compote
+Vitamins: A
+
+purple compote
+Vitamins: 
+
+red compote
+Vitamins: A, E, C, D

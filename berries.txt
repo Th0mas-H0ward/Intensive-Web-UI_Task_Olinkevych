@@ -1,0 +1,6 @@
+Berry1 | blue | A,E,C
+Berry2 | red | A,E,C,D
+Berry3 | orange | A,C
+Berry4 | green | A
+Berry5 | purple |
+Berry6 | orange | C
