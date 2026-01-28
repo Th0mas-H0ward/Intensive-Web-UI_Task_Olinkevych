@@ -1,5 +1,7 @@
 Не проходили тести на Moodle. Після заповнення форми відповіді та натискання кнопки "check", я отримував наступне: 
-"try {
+
+```
+try {
 
 let berry = new Berry("Cranberry", "red");
 
@@ -25,6 +27,6 @@ Berry info: Berry(name='Blueberry', color='blue', vitamins=["C"])
 
 Berry info: Berry(name='Strawberry
 ...
-"
+```
 
 На цьому вивід обривався. Приймати код, який не задовільняв тести, форма відмовлялася, в результаті чого отримав нульовий бал.
